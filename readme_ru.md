@@ -10,8 +10,9 @@
 * [Сообщить об ошибке](https://github.com/yiiext/smarty-renderer/issues)
 
 ###Требования
+* PHP 5.4 и выше
 * Yii 1.0 и выше
-* Smarty 3.0.6 и выше
+* Smarty 3.1.23 и выше
 
 ###Установка
 * Распаковать в `vendor/Smarty`.

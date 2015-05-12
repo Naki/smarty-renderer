@@ -10,8 +10,9 @@ This extension allows you to use [Smarty](http://www.smarty.net/) version 3 temp
 * [Report a bug](https://github.com/yiiext/smarty-renderer/issues)
 
 ###Requirements
+* PHP 5.4 or above
 * Yii 1.0 or above
-* Smarty 3.0.6 or above
+* Smarty 3.1.23 or above
 
 ###Installation
 * Extract the release file under `vendor/Smarty`.

@@ -1,3 +1,12 @@
+1.0.8-dev
+-----
+
+- Compatibility only with Smarty 3.1.23+ (Naki)
+- Use short arrays declaration, now requires PHP 5.4+ (Naki)
+- Code style fixes for PSR standard (Naki)
+- Added option to enable `TrimWhiteSpacesFilter` (Naki)
+- Removed deprecated $data['Yii'] variable (Naki)
+
 1.0.7
 -----
 
