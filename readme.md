@@ -12,7 +12,7 @@ This extension allows you to use [Smarty](http://www.smarty.net/) version 3 temp
 ###Requirements
 * PHP 5.4 or above
 * Yii 1.0 or above
-* Smarty 3.1.23 or above
+* Smarty 3.1.28 or above
 
 ###Installation
 * Extract the release file under `vendor/Smarty`.
@@ -24,7 +24,7 @@ This extension allows you to use [Smarty](http://www.smarty.net/) version 3 temp
 <?php
 // ...
 'viewRenderer'=>array(
-  'class'=>'application.vendor.smarty.ESmartyViewRenderer',
+  'class'=>'application.extensions.yiiext.renderers.smarty.ESmartyViewRenderer',
     'fileExtension' => '.tpl',
     //'pluginsDir' => 'application.smartyPlugins',
     //'configDir' => 'application.smartyConfig',
